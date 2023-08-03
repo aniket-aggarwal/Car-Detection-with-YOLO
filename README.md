@@ -1,4 +1,4 @@
-# Self-Driving Car Object Detection with YOLO
+# Car Object Detection with YOLO
 
 This repository contains code for a self-driving car object detection system using the YOLO (You Only Look Once) algorithm. The system can detect various objects, including cars, in images and video streams from a mounted camera on the car's hood.
 
